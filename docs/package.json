@@ -1,0 +1,9 @@
+{
+  "name": "@re-ui/docs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "echo dev",
+    "build": "echo build"
+  }
+}
